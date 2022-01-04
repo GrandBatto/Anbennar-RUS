@@ -8,4 +8,4 @@ tags={
 }
 name="TEST"
 supported_version="1.32*"
-path="C:/Users/grand/Documents/Paradox Interactive/Europa Universalis IV/mod/Test"
+path="/mod/Test"
